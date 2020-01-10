@@ -1,0 +1,45 @@
+.pageHeader {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    font-size: 30px;
+    color: white;
+    font-family: palatino;
+}
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    font-family: palatino;
+}
+
+.shop {
+    display: flex;
+    width: 28%;
+    flex-direction: column;
+    border: solid 1px;
+    border-color: brown;
+    border-radius: 4%;
+    margin: 1% 1%;
+    padding: 1%;
+}
+
+.shop-name {
+    font-weight: 700;
+}
+
+img {
+    display: flex;
+    width:  80%;
+    height: auto;
+}
+
+header {
+    background-image: url("https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/4423621/910/607/m2/fpnw/wm0/_mg_7215-.jpg?1525810534&s=439e5f3411eea8423e3e14a68a292f28");
+    background-size: 50%;
+}
+
+.webiste {
+    color: blue;
+}
